@@ -456,7 +456,8 @@ const fieldBase: React.CSSProperties = {
 const labelBase: React.CSSProperties = {
   fontSize: '11px',
   letterSpacing: '0.2em',
-  color: 'rgba(255,255,255,0.6)',
+  color: '#ffffff',
+  fontWeight: 600,
   textTransform: 'uppercase',
   marginBottom: '4px',
   display: 'block',
